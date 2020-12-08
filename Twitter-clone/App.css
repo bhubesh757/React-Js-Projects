@@ -1,0 +1,15 @@
+ .app {
+  /* text-align: center; */
+  font-family: 'Montserrat', sans-serif;
+  display: flex;
+  height: 100vh;
+  margin-right: auto;
+  margin-left: auto;
+  padding: 0 10px;
+  max-width: 1300px;
+}
+
+body {
+  --twitter-color : #50b7f5;
+  --twitter-background :#e6ecf0
+}
